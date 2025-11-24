@@ -22,6 +22,7 @@ public class Polymorphismus {
       C c = new C();
       D d = new D();
       a.tueEtwas();
+      
       b.tueEtwas();
       c.tueEtwas();
       d.tueEtwas();                  
