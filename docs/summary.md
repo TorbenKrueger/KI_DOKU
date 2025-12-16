@@ -1,8 +1,8 @@
 # Inhalt
 
-[Einführung](einführung.md)
+[Einführung](../)
 
 ## Klassen
 
-[Jexttextarea](klassen/dndhandlerjava.md)  
+[Jexttextarea](klassen/dndhandlerjava.md)\
 [Jextloader](klassen/JextFrame.md)
