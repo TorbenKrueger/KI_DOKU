@@ -13,4 +13,4 @@
   * [jextframejava](docs/klassen/jextframejava.md)
   * [konstruktorenundinstanzvariablejava](docs/klassen/konstruktorenundinstanzvariablejava.md)
   * [polymorphismusjava](docs/klassen/polymorphismusjava.md)
-  * [Dndhandler_gemini](docs/klassen/Dndhandler_gemini.md)
+  * [Dndhandler_gemini](klassen/Dndhandler_gemini.md)
